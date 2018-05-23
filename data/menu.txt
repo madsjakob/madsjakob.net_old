@@ -20,7 +20,7 @@
 				"data": "skills"
 			},
 			{
-				"display": "About1",
+				"display": "About",
 				"page": "about",
 				"skeleton": "jumbo"
 			}
