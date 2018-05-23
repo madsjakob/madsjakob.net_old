@@ -1,0 +1,10 @@
+{
+	"data": "page",
+	"title": "About me",
+	"text": [
+		"Name: Mads Jakob Steffansen",
+		"The short version: dad, dedicated fullstack hacker, loves sports",
+		"A little deeper: Born August 7 1974 in Aarhus, Denmark. Now live in Roskilde where I enjoy the company of my wife and three kids.",
+		"Digging in to programming, mostly C#, MSSQL but now I've found an interesting new adventure exploring the vast opportunities that comes with Javascript."
+	]
+}

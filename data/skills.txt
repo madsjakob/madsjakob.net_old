@@ -1,0 +1,23 @@
+{
+    "title": "Skills",    
+    "list": {
+        "control": "row",
+        "data": [
+            {
+                "name": "C#",
+                "skill": "",
+                "comment": "Experience since 2002"
+            },
+            {
+                "name": "Javascript",
+                "skill": "",
+                "comment": "Very interesting"
+            },
+            {
+                "name": "MS-SQL",
+                "skill": "",
+                "comment": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+	"data": "menu",
+	"defaultPage": "home",
+	"menuitems": [
+		{
+				"display": "Home",
+				"page": "home",
+				"skeleton": "jumbo"
+			},
+			{
+				"display": "Curriculum Vitae",
+				"page": "cv"
+			},
+			{
+				"display": "Skills",
+				"data": "skills",
+				"view": "list"
+			},
+			{
+				"display": "About",
+				"page": "about",
+				"skeleton": "jumbo"
+			}
+			
+		]
+}

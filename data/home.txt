@@ -1,0 +1,24 @@
+{
+	"view": "home",
+	"title": "Hi, I'm Mads Jakob",
+	"whoami": {
+		"control": "li",
+		"data": [
+			{
+				"item": "I'm a husband"
+			},
+			{
+				"item": "I'm a dad"
+			},
+			{
+				"item": "I'm a developer"
+			},
+			{
+				"item": "I'm a fan of sports"
+			},
+			{
+				"item": "I'm a music listener"
+			}
+		]
+	}
+}

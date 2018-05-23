@@ -1,0 +1,15 @@
+{
+    "data": "page",
+    "title": "Skills",
+    "skills": [
+        {
+            "name": "C#"
+        },
+        {
+            "name": "Javascript"
+        },
+        {
+            "name": "MS-SQL"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "personal": {
+        "control": "infocard",
+        "data": {
+            "title": "Personal information",
+            "info": {
+                "control": "inforow",
+                "data": [
+                    {
+                        "name": "Name",
+                        "value": "Mads Jakob Steffansen"
+                    },
+                    {
+                        "name": "address",
+                        "value": "Roskilde, Denmark"
+                    },
+                    {
+                        "name": "Civil",
+                        "value": "Married"
+                    },
+                    {
+                        "name": "birthdate",
+                        "value": "August 7, 1974"
+                    }
+                ]
+            }
+        }
+    }
+}
