@@ -64,7 +64,7 @@ var mjs = (function mjs() {
         for (var att in atts) {
             child.setAttribute(att, atts[att]);
         }
-        parent.appendChild(child);
+		parent.appendChild(child);
         return child;
 	};
 
