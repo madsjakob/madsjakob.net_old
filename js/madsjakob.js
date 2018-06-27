@@ -181,6 +181,7 @@ var mjs = (function mjs() {
 	}
 
 	return {
+		clearContent: clearContent,
 		renderView: renderView,
 		createChild: createChild
 	}

@@ -9,3 +9,10 @@ QUnit.test("Create Child", function(assert) {
 	mjs.createChild(parent, "li");
 	assert.ok(parent.childNodes.length === 1);
 });
+
+QUnit.test("Clear Content", function(assert) {
+	var elem = document.getElementById("qunit-fixture");
+	elem.textContent = "Hest";
+	mjs.clearContent(elem);
+	assert.ok(elem.textContent === "", "Passed!");
+});
