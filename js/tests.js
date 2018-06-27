@@ -1,4 +1,6 @@
 
-QUnit.test("Hello Test", function(assert) {
-	assert.ok(1 == "1", "Passed!");	
+
+QUnit.test("Render View", function(assert) {
+	var result = mjs.renderView("@hest", { "hest": "hest"});
+	assert.ok(result === "hest", "Render View Passed");
 });

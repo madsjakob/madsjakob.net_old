@@ -180,5 +180,7 @@ var mjs = (function mjs() {
 		});
 	}
 
-	
+	return {
+		renderView: renderView
+	}
 })();
