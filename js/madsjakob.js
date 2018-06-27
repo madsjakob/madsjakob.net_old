@@ -181,6 +181,7 @@ var mjs = (function mjs() {
 	}
 
 	return {
-		renderView: renderView
+		renderView: renderView,
+		createChild: createChild
 	}
 })();
